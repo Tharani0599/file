@@ -1,0 +1,2 @@
+a='hit'
+print(a)
